@@ -19,7 +19,7 @@ Description of our codes:
 
 03_temperature_stillbirth_meta-regression: Meta-regression between mean temperature (lag 0-6) and perinatal mortality (Figure 3). The same codes can be used to reproduce the results for maximum and minimum temperature.
 
-04_summarize_Rcode: This codes was used to summarize all the results in tables and figures for the manuscript and supplementary material. We have added a PDF with the results from this code.
+04_summarize_Rcode: This codes was used to summarize all the results in tables and figures for the manuscript and supplementary material. 
 
 On request to jeroen.de.bont@ki.se, all the sensitivity analysis codes can be provided.
 
