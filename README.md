@@ -1,6 +1,6 @@
 # A time-stratified, case-crossover study of heat exposure and perinatal mortality from 16 hospitals in Sub-Saharan Africa
 
-In this repository we have uploaded all the data we used to analyse the ALERT data focusing on the associations between heat exposure and perinatal mortality and antepartum and intrapartum stillbirths
+In this repository we have uploaded all the Rcodes we used to analyse the ALERT data focusing on the associations between heat exposure and perinatal mortality and antepartum and intrapartum stillbirths
 
 Data Used:
 
